@@ -1,6 +1,7 @@
 {
     "name": "jarvis-framework/string-utils",
     "type": "library",
+    "description":"stirng utils test",
     "license": "MIT",
     "authors": [
         {
