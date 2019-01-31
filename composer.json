@@ -1,0 +1,13 @@
+{
+    "name": "jarvis-framework/string-utils",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaotao",
+            "email": "zhaotao@zuzuche.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
