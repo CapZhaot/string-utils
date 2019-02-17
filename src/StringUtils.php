@@ -1,6 +1,6 @@
 <?php
 
-namespace jarvisFramework\StringUtils;
+namespace JarvisFramework\StringUtils;
 
 class StringUtils
 {

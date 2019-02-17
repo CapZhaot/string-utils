@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "jarvisFramework\\stringUtils\\": "src"
+            "JarvisFramework\\StringUtils\\": "src"
         }
     }
 }
